@@ -1,0 +1,11 @@
+img {
+    display: block;
+    width: 500px;
+    auto: auto;
+    transition: all 1s;
+    border-radius: 10px;
+}
+
+img:hover {
+    transform: rotateY(180deg);
+}
